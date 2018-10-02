@@ -1,4 +1,4 @@
-# Assignment
+﻿# Assignment
     Les sanglots longs
     Des violons
         De l'automne
@@ -25,3 +25,5 @@
 Paul Verlaine
 
 Voix ambiguë d'un coeur qui au zéphyr préfère les jattes de kiwis. 1234567890
+
+# Add note from gueguet 
